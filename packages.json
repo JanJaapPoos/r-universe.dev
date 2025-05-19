@@ -1,6 +1,7 @@
 [
     {
         "package": "SBRUV",
-        "url": "https://github.com/janjaappoos/SBRUV"
+        "url": "https://github.com/janjaappoos/SBRUV",
+        "branch": "master"
     }
 ]
